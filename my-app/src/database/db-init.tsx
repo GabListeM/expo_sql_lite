@@ -18,7 +18,7 @@ export default class DatabaseInit {
 
             `create table if not exists animal (
             id integer primary key autoincrement,
-            nome text,
+            nome text
          
             );`,
             `create table if not exists gato (

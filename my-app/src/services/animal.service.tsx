@@ -1,4 +1,4 @@
-import { Animal } from '../model/animal.model'
+import { Animal } from '../models/animal.model'
 import {DatabaseConnection} from '../database/db-connection'
 
 const table = "animal"
